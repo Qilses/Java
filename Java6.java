@@ -5,6 +5,7 @@ import java.util.Locale;
 
 public class Java6 {
     public static void main(String[] args) {
+        
         // Vilka månader som finns från number 0-11
         String[] months = new String[]{"January","February","Mars","April","Maj","Juni","July","Augusti","September","Oktober","November","December"};
         
